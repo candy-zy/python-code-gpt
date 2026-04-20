@@ -1,4 +1,4 @@
-# 🐍 Python Code GPT
+# 🌟 Python Code GPT
 
 基于 GPT-2（124M）在 50K 条 Python 代码上 fine-tune 的代码补全模型。
 
